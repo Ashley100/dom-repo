@@ -1,5 +1,8 @@
 # to ignore error on loading project to gitgub use command 
 ```
+git add .
+git commit -m "some commit"
+git remote set-url origgin https://...
 git push origin master --force
 ```
 
