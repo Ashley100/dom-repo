@@ -1,3 +1,7 @@
+to ignore error on loading project to gitgub use command 
+
+# git push origin master --force
+
 <<<<<<< HEAD
 # dom-repo
 =======
