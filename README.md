@@ -10,8 +10,6 @@ git push origin master --force
 # dom-repo
 =======
 <<<<<<< HEAD
-# dom-project.github.io
-=======
 # vue-dom-project
 
 ## Project setup
