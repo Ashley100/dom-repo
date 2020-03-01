@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <h1>asdasd</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, rerum. Temporibus, neque iste dignissimos vitae ex deserunt at exercitationem possimus aliquid atque harum quos, autem perferendis cupiditate asperiores eveniet provident!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, rerum. Temporibus, neque iste dignissimos vitae ex deserunt at exercitationem possimus aliquid atque harum quos, autem perferendis cupiditate asperiores eveniet provident!</p>
   </div>
 </template>
 
